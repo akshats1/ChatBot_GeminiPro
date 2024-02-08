@@ -16,6 +16,8 @@ Official deployment:https://chatbot-gemini-v1-akshat.onrender.com/
 
 
 ## Output
+![Screenshot 2024-02-09 020518](https://github.com/akshats1/ChatBot_GeminiPro/assets/6964294/47c88fc0-f33c-4ba7-9939-cc722fd9248c)
+
 
 ## Demo
 
